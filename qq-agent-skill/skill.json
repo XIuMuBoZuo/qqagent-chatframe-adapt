@@ -1,0 +1,12 @@
+{
+  "id": "chatframe-studio",
+  "name": "聊天框图片（原型）",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "category": "media",
+  "description": "按本轮明确请求将文字排版为聊天框图片并发回当前会话。",
+  "enabledByDefault": false,
+  "settings": {},
+  "configSchema": {},
+  "prompt": {"sections": [{"id": "chatframe-use", "title": "聊天框图片", "priority": 40, "content": "仅当本轮用户明确要求把指定内容做成聊天框图片时使用生成工具；完成后不要重复发送。"}]}
+}

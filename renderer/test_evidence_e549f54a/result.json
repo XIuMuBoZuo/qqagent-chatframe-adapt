@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "sample": "F:\\AI工程库\\01_项目\\QQ养鱼聊天框适配\\02_半成品\\QQAgent适配_20261029_v001\\renderer\\test_evidence_e549f54a\\images\\chatframe-00598de4bde5416c9f40a2086459f838.png",
+  "long_sample": "F:\\AI工程库\\01_项目\\QQ养鱼聊天框适配\\02_半成品\\QQAgent适配_20261029_v001\\renderer\\test_evidence_e549f54a\\images\\chatframe-2c117700d216420abe81589d0b46e0a1.png",
+  "real_QQ_messages": 0,
+  "network_calls": 0,
+  "model_calls": 0,
+  "checks": [
+    "actual_PNG_decode_1600x1000",
+    "terminal_punctuation_changes_pixels",
+    "reasonable_long_text_visible_with_minimum_font_check",
+    "overlong_text_rejected",
+    "message_cannot_select_template_or_path",
+    "invalid_controls_rejected",
+    "missing_Windows_font_fails_explicitly",
+    "unique_output_in_caller_controlled_directory"
+  ],
+  "files": {
+    "chatframe-00598de4bde5416c9f40a2086459f838.png": "d669cec652cacfbb5ed47457ae729551c3210d5f2e6611bf43a86cee88c387bd",
+    "chatframe-2c117700d216420abe81589d0b46e0a1.png": "dd8f974b02273a2736dfcace6b02e708cdd11e2b4ef832ac144cd386a7518661",
+    "chatframe-adca96be9a68490383ea84a87aef6721.png": "6968ec9de3e6013aecfc2d18b92db0d6b4234def6dee71518d3c5400d852da4d",
+    "chatframe-b9dcca8edba340e2bb84a04f10af272c.png": "30468e325edde3532dd9908ba45ba9ba3a762aef84097df6e0d1e5e825392b96"
+  }
+}

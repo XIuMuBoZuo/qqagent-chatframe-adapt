@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "real_renderer": true,
+  "real_QQ_messages": 0,
+  "model_calls": 0,
+  "QQ_Agent_real_host_tested": false,
+  "checks": [
+    "real_renderer_to_simulated_QQ_Agent_sender",
+    "disabled_mode_does_not_send",
+    "reference_and_at_options_preserved",
+    "overlong_text_falls_back_once",
+    "uncertain_image_send_does_not_retry_or_fallback"
+  ],
+  "sample": "F:\\AI工程库\\01_项目\\QQ养鱼聊天框适配\\02_半成品\\QQAgent适配_20261029_v001\\集成证据_fw070n\\模拟发送的聊天框.png"
+}
